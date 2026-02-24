@@ -1,6 +1,6 @@
 A dynamic notepad web application built entirely with vanilla HTML, CSS, and JavaScript. Users can:
 
-* Add and delete titles and subtasks
+* Add and delete titles and subtasks, with delete confirmation
 * Mark subtasks as completed with strikethrough
 * Persist all data using localStorage, so tasks remain after page reload
 * Interact with a fully dynamic UI without any frameworks or libraries
